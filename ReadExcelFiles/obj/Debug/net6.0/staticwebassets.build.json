@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GmMdV53wo+1ayG4vxxhz2s+IUeLd0jB4U1b3E7kGJeQ=",
+  "Source": "ReadExcelFiles",
+  "BasePath": "_content/ReadExcelFiles",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
